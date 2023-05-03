@@ -3,6 +3,10 @@
 A new Flutter project.
 
 ## Getting Started
+Output Screenshot
+
+
+<img width="374" alt="Screenshot 2023-05-03 174400" src="https://user-images.githubusercontent.com/128701011/235912798-2f500b8d-05e0-43c2-b73d-f75c88dddcdb.png">
 
 This project is a starting point for a Flutter application.
 
